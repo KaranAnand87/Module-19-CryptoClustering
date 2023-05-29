@@ -23,8 +23,8 @@ The project analyzes the impact of using fewer features on clustering the data u
 
 ### Dependencies
 
-Python
-pandas
-NumPy
-scikit-learn
-hvPlot
+ - Python
+ - pandas
+ - NumPy
+ - scikit-learn
+ - hvPlot
